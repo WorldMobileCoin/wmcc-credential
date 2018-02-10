@@ -1,0 +1,30 @@
+{
+  "name": "wmcc-credential",
+  "version": "1.0.0-beta.1",
+  "release": "10 February 2018",
+  "productName": "wmcc-credential",
+  "description": "WorldMobileCoin © WMCC Credential",
+  "homepage": "https://github.com/WorldMobileCoin/wmcc-credential",
+  "repository": "git://github.com/WorldMobileCoin/wmcc-credential.git",
+  "bugs": {
+    "url": "https://github.com/WorldMobileCoin/wmcc-credential/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "main": "./lib/wmcc-credential.js",
+  "keywords": [
+    "worldmobilecoin",
+    "wmcc-credential",
+    "wmcc",
+    "transaction",
+    "address",
+    "network",
+    "p2p",
+    "cryptocurrency",
+    "blockchain"
+  ],
+  "dependencies": {
+    "wmcc-core": "*",
+    "wmcc-logger": "*"
+  },
+  "license": "MIT"
+}
